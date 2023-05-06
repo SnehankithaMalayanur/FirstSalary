@@ -5,7 +5,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>FirstSalary</title>
+    <title>FirstSalary - Developed by Snehankitha Malayanur</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -47,7 +47,7 @@
         <!-- Navbar Start -->
         <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
             <a href="index" class="navbar-brand d-flex align-items-center text-center py-0 px-4 px-lg-5">
-                <h1 class="m-0 text-primary">FirstSalary</h1>
+                <h1 class="m-0 text-primary">FirstSalary - Developed by Snehankitha Malayanur</h1>
             </a>
             <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
@@ -303,6 +303,7 @@
                     <div class="col-lg-3 col-md-6">
                         <h5 class="text-white mb-4">Newsletter</h5>
                         <p>Subscribe to our newsletter to receive job alerts</p>
+                        <p><b>Developed by <b>Snehankitha Malayanur</b></b></p>
                         <div class="position-relative mx-auto" style="max-width: 400px;">
                             <input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
                             <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
